@@ -1,0 +1,3 @@
+[submodule "modelclub.webclient"]
+	path = modelclub.webclient
+	url = ../modelclub.webclient.git
